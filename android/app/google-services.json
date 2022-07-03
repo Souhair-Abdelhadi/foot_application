@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "706061163457",
+    "firebase_url": "https://meetme-a37bb-default-rtdb.firebaseio.com/",
+    "project_id": "meetme-a37bb",
+    "storage_bucket": "meetme-a37bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706061163457:android:a51fc36d1bf7e3b085ed40",
+        "android_client_info": {
+          "package_name": "com.meetme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706061163457-uemgij34gv25jdulhdlt8thv8abi2tvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPeV3NSL9b6RHv7fZZCBluZWfnLqQXJSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706061163457-uemgij34gv25jdulhdlt8thv8abi2tvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
